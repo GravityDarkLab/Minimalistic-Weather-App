@@ -21,6 +21,6 @@ Dark Mode           |  Light Mode
   4. Launch the app.
 
 ## Contact
-Achraf Labidi - [LinkedIn](linkedin.com/in/ashraf-labidi-0xff3e)
+Achraf Labidi - [LinkedIn](https://www.linkedin.com/in/ashraf-labidi-0xff3e/)
 
 Other Projects - [GravityDarkLab](https://github.com/GravityDarkLab)
